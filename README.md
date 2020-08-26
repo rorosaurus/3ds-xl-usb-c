@@ -1,2 +1,2 @@
 # 3ds-usb-c
- a usb-c mod for the 3DS/XL
+A usb-c mod for the 3DS and 3DSXL
