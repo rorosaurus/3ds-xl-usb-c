@@ -49,7 +49,7 @@ It should align like this, with holes lining up with the motherboard pads undern
 
 ![Assembled PCB top alignment](https://github.com/rorosaurus/3ds-usb-c/blob/master/images/assembled-pcb-top-alignment.jpg)
 
-Solder each hole, ensuring you heat up the pad underneath and allow solder to flow into the hole, securing the USB-C PCB to the motherboard at each of the 4 holes.
+Solder each hole, ensuring you heat up the pad underneath and allow solder to flow into the hole, securing the USB-C PCB to the motherboard at each of the 4 holes. Then finally use solder to attach the final half-circle pad to the 5V motherboard pad beneath it.
 
 ![New charging port attached](https://github.com/rorosaurus/3ds-usb-c/blob/master/images/new-charging-port-attached.jpg)
 
