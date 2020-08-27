@@ -1,9 +1,13 @@
 # 3ds-usb-c
-A USB-C mod for the 3DS and 3DSXL!
+A USB-C mod for the 3DS and 3DS XL!
 
 ## This project is not yet fully ready for prime-time. It's still being tested and verified.
 
 ![After with bezel](https://github.com/rorosaurus/3ds-usb-c/blob/master/images/after-with-bezel.jpg)
+
+This mod has not yet been verified on an original 3DS. It was verified on a 3DS XL.
+
+This mod is not compatible with: 2DS, New 2DS XL, New 3DS, New 3DS XL.
 
 ## Assembly/Instructions
 

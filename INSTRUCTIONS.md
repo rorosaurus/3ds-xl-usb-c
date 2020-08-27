@@ -1,7 +1,9 @@
 # 3ds-usb-c
-A USB-C mod for the 3DS and 3DSXL
+A USB-C mod for the 3DS and 3DS XL
 
 # Instructions
+
+These instructions were tested/performed on a 3DS XL, and are NOT yet verified on an original 3DS.
 
 ## A note on the charging dock contacts
 
@@ -27,7 +29,7 @@ Then I was able to solder-suck / wick the charging port itself and remove it. I 
 
 ## Step 3: Prepare the new charge port
 
-Assemble the new USB-C charge port. That means positioning and soldering the brace into the perfect place, and adding the USB-C port and resistors if your mod came unassembled.
+Assemble (and test!) the new USB-C charge port. That means positioning and soldering the brace into the perfect place, and adding the USB-C port and resistors if your mod came unassembled.
 
 ![Unassembled PCB](https://github.com/rorosaurus/3ds-usb-c/blob/master/images/unassembled-pcb.jpg)
 
@@ -42,6 +44,8 @@ Ensure it fits well into the slot left by the old charging port.
 Add your USB-C port and resistors if they aren't there already.
 
 ![Assembled PCB top](https://github.com/rorosaurus/3ds-usb-c/blob/master/images/assembled-pcb-top.jpg)
+
+Ensure that your USB-C PCB and the motherboard are flat and flush before continuing.
 
 ## Step 4: Position and attach the new charge port
 
