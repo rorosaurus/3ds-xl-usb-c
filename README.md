@@ -1,21 +1,56 @@
-# 3ds-xl-usb-c
-A USB-C mod for the 3DS XL!
-
-## This project is not yet fully ready for prime-time. It's still being tested and verified.
-
 ![After with bezel](https://github.com/rorosaurus/3ds-xl-usb-c/blob/master/images/after-with-bezel.jpg)
 
-This mod was designed for the 3DS XL.
+**This mod requires some case trimming**, and I would recommend abandoning your charging dock contacts. More information available in the instructions page.
 
-For the original 3DS, I recommend this mod by makho: [makhowastaken/3DS_C](https://github.com/makhowastaken/3DS_C/)
+# Where to Buy
+
+* USA - [Buy on Amazon]()
+* Any other Country - [Buy on Tindie]()
+
+## The truly universal USB-C dream is finally realized for your Nintendo 3DS XL!
+
+Charge your Nintendo 3DS XL with USB-C, using any USB-C cable and charger! If it fits, it'll charge! Finally you can stop carrying around that extra proprietary cable!
+
+My design is inspired by [this existing PCB](https://oshpark.com/shared_projects/I6UOH6gb) that only works with ````USB-A -> USB-C```` cables. In my opinion, if you're gonna future-proof your 3DS XL, you shouldn't remain reliant on Type-A!
+
+My PCB works with ````USB-C <-> USB-C```` cables as well, so you can use ANY USB-C cable/charger to charge it! I've also verified it works with ````USB-A -> USB-C```` cables, Quick Charge, and USB-PD! That means if your charger or USB battery pack offers 5V/9V/12V/etc., it will recognize the 3DS XL can only accept 5V and charge accordingly.
+
+# Compatibility
+
+This is designed for installation in any Nintendo 3DS XL (SPR-001).
 
 This mod is not compatible with: 2DS, New 2DS XL, New 3DS, New 3DS XL.
 
-This mod requires some case trimming, and I would recommend abandoning your charging dock contacts. More information available in the instructions page.
+This mod is not compatible with the original Nintendo 3DS. For the original 3DS, I recommend this mod by makho: [makhowastaken/3DS_C](https://github.com/makhowastaken/3DS_C/)
 
-## Assembly/Instructions
+# Disclaimer
 
-Instructions for assembly/installation can be found in [INSTRUCTIONS.md](https://github.com/rorosaurus/3ds-xl-usb-c/blob/master/INSTRUCTIONS.md)
+Modify your console at your own risk! This product is provided "as is", with no warranty - express or implied. That said, if you have any issues or questions, don't hesitate to reach out!
 
-## 3D printable bezel
-[3DS-XL-USB-C-3D-printable-bezel.stl](https://github.com/rorosaurus/3ds-xl-usb-c/blob/master/3DS-XL-USB-C-3D-printable-bezel.stl) is a 3D printable file that you can print/modify to fill in the remaining gap left by this USB-C mod.
+
+# Installation
+
+Instructions for assembly/installation can be found in [INSTALLATION.md](https://github.com/rorosaurus/3ds-xl-usb-c/blob/master/INSTALLATION.md)
+
+# License
+
+If you have improvements, please modify these design files and share any improvements openly/freely with the community (via a pull request or another public repository)!
+
+You are not permitted to profit off of this design or use it in any commercial venture.
+
+[Full license information.](https://github.com/rorosaurus/3ds-xl-usb-c/blob/master/LICENSE.md)
+
+# Thanks
+
+Thank you to [makho](https://www.youtube.com/channel/UC5FYpo9lFqK1Y7wqjPuANFw) and [BlindEye/Hidarite](https://www.tindie.com/stores/hidarite/) for the original PCB inspiration!
+
+# Other Gameboy Mods
+
+[Mods - Game Boy Subreddit Wiki](https://www.reddit.com/r/GameBoy/wiki/mods)
+
+## My Other Gameboy Mods
+
+* [USB-C Mod for Gameboy Advance SP (and original Nintendo DS)](https://github.com/rorosaurus/gba-sp-usb-c/)
+* [USB-C Mod for Nintendo DS Lite](https://github.com/rorosaurus/nds-lite-usb-c/)
+* [USB-C Mod for Nintendo 3DS XL](https://github.com/rorosaurus/3ds-xl-usb-c/)
+* [List of headphone jack mods for the Gameboy Advance SP](https://github.com/rorosaurus/gba-sp-headphone-jack/)

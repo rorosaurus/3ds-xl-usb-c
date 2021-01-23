@@ -1,5 +1,10 @@
-# 3ds-xl-usb-c
-A USB-C mod for the 3DS XL!
+# Prep
+
+Your PCBs might arrive with some [slight perforations, from the breakaway panelization design](https://github.com/rorosaurus/gba-sp-usb-c/blob/master/images/breakaway-perforations.jpg) during PCB manufacturing. These can be left alone, or optionally filed/sanded away.
+
+# Test before you install!
+
+I test every board before shipping, but you should be certain it still works before you install it! Plug it in to a ````Type-C <-> Type-C```` cable and USB-C power source. **Do not perform this test with a ````Type-A -> Type-C```` cable - that cable won't verify the board works for full USB-C!** Use a multimeter to measure the voltage across any of the grounded holes and the +5V half-circle in the back. Ensure it reads ~5V. Flip your USB-C cable the other way around and verify it still reads 5V! Alternatively, if you have a USB-C multimeter [like this](https://smile.amazon.com/gp/product/B07X3HST7V/) you can simply plug into that and read the display.
 
 # Instructions
 
@@ -63,6 +68,6 @@ Use a dremel, sandpaper, and flush cutters to trim the case to fit the new port 
 
 ## Step 6: 3D Print bezel to fill the gap
 
-https://github.com/rorosaurus/3ds-xl-usb-c#3d-printable-bezel
+[3DS-XL-USB-C-3D-printable-bezel.stl](https://github.com/rorosaurus/3ds-xl-usb-c/blob/master/3DS-XL-USB-C-3D-printable-bezel.stl) is a 3D printable file that you can print/modify to fill in the remaining gap left by this USB-C mod.
 
 ![After with bezel](https://github.com/rorosaurus/3ds-xl-usb-c/blob/master/images/after-with-bezel.jpg)
