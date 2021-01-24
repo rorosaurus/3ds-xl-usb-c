@@ -4,8 +4,8 @@
 
 # Where to Buy
 
-* USA - [Buy on Amazon]()
-* Any other Country - [Buy on Tindie]()
+* USA: [Buy on Amazon](https://smile.amazon.com/dp/B08RN6LDVH) - [(Why Amazon?)](https://github.com/rorosaurus/gba-sp-usb-c/blob/master/why-sell-on-amazon.md)
+* Any other Country: [Buy on Tindie](https://www.tindie.com/products/22543/) - (I will restock occasionally!)
 
 ## The truly universal USB-C dream is finally realized for your Nintendo 3DS XL!
 
@@ -14,6 +14,8 @@ Charge your Nintendo 3DS XL with USB-C, using any USB-C cable and charger! If it
 My design is inspired by [this existing PCB](https://oshpark.com/shared_projects/I6UOH6gb) that only works with ````USB-A -> USB-C```` cables. In my opinion, if you're gonna future-proof your 3DS XL, you shouldn't remain reliant on Type-A!
 
 My PCB works with ````USB-C <-> USB-C```` cables as well, so you can use ANY USB-C cable/charger to charge it! I've also verified it works with ````USB-A -> USB-C```` cables, Quick Charge, and USB-PD! That means if your charger or USB battery pack offers 5V/9V/12V/etc., it will recognize the 3DS XL can only accept 5V and charge accordingly.
+
+**No 3D-printed part is included**, but the file is available for you to print yourself, if you want.
 
 # Compatibility
 
