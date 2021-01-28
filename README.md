@@ -25,6 +25,12 @@ This mod is not compatible with: 2DS, New 2DS XL, New 3DS, New 3DS XL.
 
 This mod is not compatible with the original Nintendo 3DS. For the original 3DS, I recommend this mod by makho: [makhowastaken/3DS_C](https://github.com/makhowastaken/3DS_C/)
 
+# Charge Speed
+
+This console's original charger (WAP-002) outputs up to 900mA at 4.6V. According to the USB-C spec, this mod will allow charging at up to 500mA at 5V. This is, on paper, 40% slower charging than with the WAP-002.
+
+However, in my testing, my console consumed 800mA at 5.1V, charging just as fast as the WAP-002. So please keep in mind that your mileage may vary, based on what USB charger you use and how precisely that charger follows the USB specification. Just be aware in the worst case, your console might charge a little slower.
+
 # Disclaimer
 
 Modify your console at your own risk! This product is provided "as is", with no warranty - express or implied. That said, if you have any issues or questions, don't hesitate to reach out!
